@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Jenhan Tao"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in Bioinformatics at UC San Diego. My research focuses on machine learning techniques for decrypting the genome, and using this understanding to build predictive models for the behavior of the innate immune system."
+  bio              : "Ph.D. student in Bioinformatics at UC San Diego studying genomics and machine learning."
   location         : "San Diego, California"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=PZzR0YYAAAAJ&hl=en&oi=ao"
-  email            : 
+  email            : "jenhantao@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jenhantao/"
   orcid            : "https://orcid.org/0000-0001-8374-3843"
   pinterest        :
   soundcloud       :
