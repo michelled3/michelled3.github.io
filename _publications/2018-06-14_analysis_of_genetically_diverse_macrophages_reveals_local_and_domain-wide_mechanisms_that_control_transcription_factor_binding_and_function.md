@@ -1,7 +1,7 @@
 ---
 title: "Analysis of Genetically Diverse Macrophages Reveals Local and Domain-wide Mechanisms that Control Transcription Factor Binding and Function"
 collection: publications
-permalink: /publications/2018-06-14_analysis_of_genetically_diverse_macrophages_reveals_local_and_domain-wide_mechanisms_that_control_transcription_factor_binding_and_function.pdf
+permalink: /publications/2018-06-14_analysis_of_genetically_diverse_macrophages_reveals_local_and_domain-wide_mechanisms_that_control_transcription_factor_binding_and_function
 venue: "Cell"
 excerpt: 'Analyses of genetic variation in macrophages from inbred mouse strains reveal how a complex network of transcription factors influence cis- regulatory elements to impact differentiation and responses to environmental change.'
 date: 2018-06-14
