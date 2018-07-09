@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2014-04-07-interactive_assembly_algorithms_for_molecular_cloning
 venue: "Nature Methods"
 excerpt: 'This paper describes RavenCAD, a dynamic programing algorithm for planing DNA synthesis protocols that is accessible as a web application.'
-date: 2009-10-01
+date: 2014-04-07
 paperurl: http://jenhantao.github.io/files/2014-04-07-interactive_assembly_algorithms_for_molecular_cloning.pdf
 ---
 
