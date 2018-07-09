@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Interactive assembly algorithms for molecular cloning"
 collection: publications
 permalink: /publications/2014-04-07-interactive_assembly_algorithms_for_molecular_cloning
 venue: "Nature Methods"
