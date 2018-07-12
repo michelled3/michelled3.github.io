@@ -1,6 +1,6 @@
 ---
 title: "TBA: a Transcription Factor Binding Analysis"
-excerpt: "TBA is a multi-functional machine learning tool for identifying words in the genome (aka transcription factor motifs) associated with genomic features.<br/><img width="500" src='/images/tba_flowchart.png'>"
+excerpt: "TBA is a multi-functional machine learning tool for identifying words in the genome (aka transcription factor motifs) associated with genomic features.<br/><img width='500' src='/images/tba_flowchart.png'>"
 collection: portfolio
 ---
 TBA is a multi-functional machine learning tool for identifying transcription factors associated with genomic features. Specifically, TBA can be applied to:
@@ -13,7 +13,7 @@ TBA takes a set of loci that are of interest as input. First, the genomic sequen
 
 TBA is available at [github.com/jenhantao/tba](https://github.com/jenhantao/tba)
 
-<img width="500" src='/images/tba_flowchart.png'>
+<img width='500' src='/images/tba_flowchart.png'>
 
 
 [//]: # (This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. )
