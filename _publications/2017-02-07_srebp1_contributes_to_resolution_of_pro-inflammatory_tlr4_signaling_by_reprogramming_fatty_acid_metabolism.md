@@ -2,7 +2,7 @@
 title: "SREBP1 Contributes to Resolution of Pro- inflammatory TLR4 Signaling by Reprogramming Fatty Acid Metabolism"
 collection: publications
 permalink: /publications/2017-02-07_srebp1_contributes_to_resolution_of_pro-inflammatory_tlr4_signaling_by_reprogramming_fatty_acid_metabolism
-venue: "Nature Methods"
+venue: "Cell Metabolism"
 excerpt: 'In this paper, the authors identify a biphasic macrophage gene expression program underlying anti-inflammatory fatty acid production following TLR4 activation. The late anti-inflammatory program is dependent on SREBP1. This is surprising given the known roles of SREBP1 in promoting IL1B production during the induction of inflammation and highlights its dual roles.'
 date: 2017-02-07
 paperurl: http://jenhantao.github.io/files/2017-02-07_srebp1_contributes_to_resolution_of_pro-inflammatory_tlr4_signaling_by_reprogramming_fatty_acid_metabolism.pdf
