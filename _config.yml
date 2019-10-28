@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jenhan Tao"
+title                    : "Michelle Dow"
 title_separator          : "-"
-name                     : &name "Jenhan Tao"
+name                     : &name "Michelle Dow"
 description              : &description "Ph.D. student in Bioinformatics at UC San Diego"
-url                      : https://jenhantao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://michelled3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jenhantao.github.io"
+repository               : "michelled3.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jenhan Tao"
-  avatar           : "profile.png"
-  bio              : "Ph.D. student in Bioinformatics at UC San Diego studying genomics and machine learning."
+  name             : "Michelle Dow"
+  avatar           :
+  bio              : "Ph.D. student in Bioinformatics at UC San Diego studying cancer genomics and immunology."
   location         : "San Diego, California"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=PZzR0YYAAAAJ&hl=en"
-  email            : "jenhantao@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=bYMpSOMAAAAJ&hl=en&oi=ao"
+  email            : "mdow@ucsd.edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "jenhantao"
+  github           : "michelled3"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "jenhantao"
-  orcid            : "https://orcid.org/0000-0001-8374-3843"
+  linkedin         : "michelledowbioinformatics"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jenhantao"
+  twitter          : "mdow_maple"
   vine             :
   weibo            :
   xing             :
