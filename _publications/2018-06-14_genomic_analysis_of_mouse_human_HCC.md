@@ -2,7 +2,7 @@
 title: "Integrative genomic analysis of mouse and human hepatocellular carcinoma"
 collection: publications
 permalink: /publications/2018-10-16_genomic_analysis_of_mouse_human_HCC
-venue: "PNAS"
+venue: "PNAS (Proceedings of the National Academy of Sciences of the United States of America)" 
 excerpt: 'Hepatocellular carcinoma (HCC) research has been hampered by the absence of consensus mouse models with clearly defined molecular features faithfully recapitulating human HCC. Here we tackle this gap by implementing a cross-species comparative analysis between a large cohort of patients and four diverse mouse models focused on clinically and therapeutically relevant aspects of genomic and transcriptomic profiles and propose two of these models as valid for the study of different stages of human HCC.'
 date: 2018-10-16
 paperurl: http://michelled3.github.io/files/2018-10-16_genomic_analysis_of_mouse_human_HCC.pdf
