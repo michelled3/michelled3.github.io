@@ -2,6 +2,7 @@
 title: "Food-Intake Normalization of Dysregulated Fatty Acids in Women with Anorexia Nervosa"
 collection: publications
 permalink: /publications/2019-09-13_nutrient
+venue: Nutrients
 excerpt: 'This paper describes the investigation of the effect of abnomal metabolism of fatty acids (FAs) to anorexia nervosa (AN) patients. We found that intake and AN status modified the correlations of FAs with body mass index (BMI), depression, and anxiety. Specifically, FAs dysregulations correlate with worsened symptoms of AN.
 
 date: 2019-09-13
