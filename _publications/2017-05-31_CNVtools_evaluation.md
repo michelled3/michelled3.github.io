@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2017-05-31_CNVtools_evaluation
 venue: "BMC Bioinformatics"
 excerpt: 'In this study, we evaluated the performance of the most recent and commonly used CNV detection tools for WES data in cancer to address their limitations and provide guidelines for developing new ones. We focused on the tools that have been designed or have the ability to detect cancer somatic aberrations.'
-date: 2017-02-07
+date: 2017-05-31
 paperurl: http://michelled3.github.io/files/2017-05-31_CNVtools_evaluation.pdf
 ---
 
