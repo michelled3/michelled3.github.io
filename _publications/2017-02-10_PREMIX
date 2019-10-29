@@ -1,0 +1,14 @@
+---
+title: "PREMIX: Privacy-preserving EstiMation of individual admixture"
+collection: publications
+permalink: /publications/2017-02-10_PREMIX
+venue: "AMIA Annual Symposium Proceedings"
+excerpt: 'This paper describes a framework: PRivacy-preserving EstiMation of Individual admiXture (PREMIX) using Intel software guard extensions (SGX). '
+date: 2017-02-10
+paperurl: http://michelled3.github.io/files/2017-02-10_PREMIX.pdf
+---
+
+## Abstract
+In this paper we proposed a framework: PRivacy-preserving EstiMation of Individual admiXture (PREMIX) using Intel software guard extensions (SGX). SGX is a suite of software and hardware architectures to enable efficient and secure computation over confidential data. PREMIX enables multiple sites to securely collaborate on estimating individual admixture within a secure enclave inside Intel SGX. We implemented a feature selection module to identify most discriminative Single Nucleotide Polymorphism (SNP) based on informativeness and an Expectation Maximization (EM)-based Maximum Likelihood estimator to identify the individual admixture. Experimental results based on both simulation and 1000 genome data demonstrated the efficiency and accuracy of the proposed framework. PREMIX ensures a high level of security as all operations on sensitive genomic data are conducted within a secure enclave using SGX.
+
+[Download paper here](http://michelled3.github.io/files/2017-02-10_PREMIX.pdf)
